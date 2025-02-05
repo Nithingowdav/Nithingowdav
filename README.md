@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nithin V</h1>
 <h3 align="center">A Passionate Full Stack developer from India</h3>
 
-- 🌱 I’m currently learning **React js, Spring Boot etc**
+- 🌱 I’m currently working as Full Stack Developer
 
 - 📫 How to reach me **nithin1122v@gmail.com**
 
